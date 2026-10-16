@@ -1,0 +1,11 @@
+uuid = "311941d9-bea2-4fde-938e-693456e14c35"
+name = "Match Files by Track Number"
+authors = ["rokkhonmin"]
+description = "Album right-click action that matches the album's files to its tracks by their disc and track number tags."
+version = "0.1.0"
+api = ['3.0']
+license = "GPL-2.0-or-later"
+license_url = "https://www.gnu.org/licenses/gpl-2.0.html"
+categories = ["ui"]
+homepage = "https://github.com/rokkhonorg-mbz/picard-plugin-match-by-track-number"
+report_bugs_to = "https://github.com/rokkhonorg-mbz/picard-plugin-match-by-track-number/issues"
